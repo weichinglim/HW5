@@ -1,1 +1,5 @@
 What I did on the weekend besides Git Assignment: Went to my first networking event and basketball game with Tippie Buddies!
+
+Update of thought on assignment: So far so good!
+
+Questions: Does it matter which directory we are currently in to add, stage and commit files or edits made to files??
